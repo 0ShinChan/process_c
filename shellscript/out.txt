@@ -1,0 +1,19 @@
+ directory /home/baymax/Documents/shellscript
+ count: 21
+ ass1.sh
+ass2.sh
+ass3.sh
+ass4.sh
+ass5.sh
+ass6.sh
+ass7.sh
+ass9.sh
+eveodd.sh
+file1.txt
+file2.txt
+file3.txt
+inp.txt
+input.txt
+output.txt
+out.txt
+test.sh
