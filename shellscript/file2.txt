@@ -1,0 +1,2 @@
+A single line of text 
+in file2.txt.
